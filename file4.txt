@@ -1,0 +1,1 @@
+file4 just comes before other file.
